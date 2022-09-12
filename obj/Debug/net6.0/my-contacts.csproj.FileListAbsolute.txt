@@ -1,0 +1,15 @@
+F:\CS30\my-contacts\bin\Debug\net6.0\my-contacts.exe
+F:\CS30\my-contacts\bin\Debug\net6.0\my-contacts.deps.json
+F:\CS30\my-contacts\bin\Debug\net6.0\my-contacts.runtimeconfig.json
+F:\CS30\my-contacts\bin\Debug\net6.0\my-contacts.dll
+F:\CS30\my-contacts\bin\Debug\net6.0\my-contacts.pdb
+F:\CS30\my-contacts\obj\Debug\net6.0\my-contacts.csproj.AssemblyReference.cache
+F:\CS30\my-contacts\obj\Debug\net6.0\my-contacts.GeneratedMSBuildEditorConfig.editorconfig
+F:\CS30\my-contacts\obj\Debug\net6.0\my-contacts.AssemblyInfoInputs.cache
+F:\CS30\my-contacts\obj\Debug\net6.0\my-contacts.AssemblyInfo.cs
+F:\CS30\my-contacts\obj\Debug\net6.0\my-contacts.csproj.CoreCompileInputs.cache
+F:\CS30\my-contacts\obj\Debug\net6.0\my-contacts.dll
+F:\CS30\my-contacts\obj\Debug\net6.0\refint\my-contacts.dll
+F:\CS30\my-contacts\obj\Debug\net6.0\my-contacts.pdb
+F:\CS30\my-contacts\obj\Debug\net6.0\my-contacts.genruntimeconfig.cache
+F:\CS30\my-contacts\obj\Debug\net6.0\ref\my-contacts.dll
