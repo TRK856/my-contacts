@@ -2,9 +2,9 @@ namespace ContactList
 {
     public class Contact
     {
-        public string Name;
-        public string PhoneNumber;
-        public string Email;
+        public string Name {get; set;}
+        public string PhoneNumber {get; set;}
+        public string Email {get; set;}
 
         public Contact(string name, string email, string phoneNumber)
         {
